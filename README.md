@@ -1,1 +1,1 @@
-# TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL - D
+# TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL - D\n**Por William Correia""\nO Presente repositorio visa alocar o(s) projeto(s) desenvolvidos na disciplina.\nInicialmente visando garantir uma boa gestão foi feito um curso sobre git o qual a veracidade do diploma pode ser verificada no seguinte link :\n**Verify this certificate at https:**<https://app.dataquest.io/verify_cert/A7R2FU79R0QNGJOIKH18/>
